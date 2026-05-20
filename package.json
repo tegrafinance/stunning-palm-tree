@@ -1,0 +1,15 @@
+{
+  "name": "stunning-palm-tree",
+  "version": "1.0.0",
+  "description": "Automated Multi-Agent Web3 Trading & Risk Assessment Pipeline",
+  "main": "agent.js",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "scripts": {
+    "start": "node agent.js"
+  },
+  "keywords": ["web3", "ai-agent", "trading", "automation"],
+  "author": "",
+  "license": "ISC"
+}
